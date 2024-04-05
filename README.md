@@ -1,4 +1,4 @@
-## Afame-Technologies-Projects
+## Afame-Technologies-Project
 I conducted a comprehensive case study on a dataset that contained information about Sales Data using SQL and Tableau. SQL for data anlysis and tableau for visualizations. The dataset includes three tables: orders, return and people.
 
 ## Goal - 
