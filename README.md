@@ -7,11 +7,19 @@ making.
 
 ## Problem Statement - 
 1.Top 10 best selling items
-2. total sale of the year
-3. total revenue generated over the year 
-4. sales over time
-5. category which has most return items
-6. country with highest orders
-7. top 10 most popular category
-8. category wise profit
-9. top 10 most expensive shipping cost
+
+2.total sale of the year
+ 
+3.total revenue generated over the year
+
+4.sales over time
+
+5.category which has most return items
+
+6.country with highest orders
+
+7.top 10 most popular category
+
+8.category wise profit
+
+9.top 10 most expensive shipping cost
