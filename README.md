@@ -34,6 +34,10 @@ making.
 
 14.The overall sales trend over time.
 
+## Power-BI Dashboard : Unveiling Insights with DAX Queries and Dynamic Visualizations
+![image](https://github.com/Radhika190/Afame-Technologies-Projects/assets/128241822/d54fb5e8-67a2-4d81-b13d-5ba343e554a6)
+
+
 ## Conclusion - 
 After conducting thorough analysis on e-commerce dataset I have gained valuable insights into various aspects of business operations. here are the key findings and conclusion drawn from the analysis:
 
@@ -52,4 +56,13 @@ After conducting thorough analysis on e-commerce dataset I have gained valuable 
 * understanding the profit margins at the subcategory level helps us identify high-margin products and allocate resources effectively to maximize profitability.
 * analyzing the overall sales trend over time provides insights into seasonal fluctuations, market trends and the effectiveness of marketing initiatives, guiding strategic planning and decision -making processes.
 
+Power BI Dashboard exemplifies the power of data-driven decision-making in the e-commerce domain. Through the judicious application of DAX queries and dynamic visualizations, we unearthed actionable insights that drive business growth and enhance operational efficiency.
+In this Dashboard -
+* Leveraged Power BI to analyze e-commerce data, employing DAX queries for in-depth insights.
+* Visualized sales trends over time, product category distribution, and geographic sales patterns.
+* Identified profitable products, customer segments, and shipping efficiencies through dynamic visualizations.
+* Unveiled customer behavior insights and order priority dynamics to inform strategic decision-making.
+
 In conclusion, by leveraging data analysis, we have gained valuable insights into various aspects of our e-commerce business,enabling us to make informed decisions, optimize operations, and drive sustainable growth and profitability.
+
+
