@@ -1,4 +1,6 @@
-## Afame-Technologies-Project
+## Afame-Technologies-Projects
+
+# 1. Sales Data Analysis Project -
 I conducted a comprehensive case study on a dataset that contained information about Sales Data using SQL and Tableau. SQL for data anlysis and power-bi for visualizations. The dataset includes three tables: orders, return and people.
 
 ## Goal - 
@@ -65,4 +67,35 @@ In this Dashboard -
 
 In conclusion, by leveraging data analysis, we have gained valuable insights into various aspects of our e-commerce business,enabling us to make informed decisions, optimize operations, and drive sustainable growth and profitability.
 
+# 2. Titanic Survival Prediction Project -
+### Dataset description 
+The Dataset contains information about the passengers on board the Titanic, including whether they survived the shipwreck or not. Here is a description of the typical fields in the Titanic Survival dataset:
+1. PassengerId: Unique identifier for each passenger.
+2. Survived: Survival status (0 = No; 1 = Yes).
+3. Pclass: Passenger class (1 = 1st; 2 = 2nd; 3 = 3rd).
+4. Name: Name of the passenger.
+5. Sex: Sex of the passenger (male or female).
+6. Age: Age of the passenger.
+7. SibSp: Number of siblings/spouses aboard.
+8. Parch: Number of parents/children aboard.
+9. Ticket: Ticket number.
+10. Fare: Passenger fare.
+11. Cabin: Cabin number.
+12. Embarked: Port of embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+ 
+### Summary
+In this project, the goal was to predict whether individuals survived or not. To achieve this, I utilized a logistic regression model, which is commonly used for modeling the probability of a binary outcome based on predictor variables.
 
+The steps involved in model training included:
+
+Cleaning the dataset to ensure data quality and consistency.
+Handling missing data, which involved techniques such as imputation or removal of incomplete records.
+Encoding categorical features to convert them into a numerical format suitable for modeling. This step often involves techniques like one-hot encoding or label encoding.
+Selecting features for testing and training data, ensuring that only relevant features were included in the model.
+Splitting the data into training and testing sets to evaluate the model's performance.
+Training the logistic regression model on the training data.
+Calculating the accuracy score to assess the model's performance on the test data.
+
+By following these steps, I was able to develop a logistic regression model to predict survival outcomes with 78% accuracy.
+
+## Thankyou
