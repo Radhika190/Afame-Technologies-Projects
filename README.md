@@ -88,13 +88,14 @@ In this project, the goal was to predict whether individuals survived or not. To
 
 The steps involved in model training included:
 
-Cleaning the dataset to ensure data quality and consistency.
-Handling missing data, which involved techniques such as imputation or removal of incomplete records.
-Encoding categorical features to convert them into a numerical format suitable for modeling. This step often involves techniques like one-hot encoding or label encoding.
-Selecting features for testing and training data, ensuring that only relevant features were included in the model.
-Splitting the data into training and testing sets to evaluate the model's performance.
-Training the logistic regression model on the training data.
-Calculating the accuracy score to assess the model's performance on the test data.
+* Cleaning the dataset to ensure data quality and consistency.
+* Handling missing data, which involved techniques such as imputation or removal of incomplete records.
+* Encoding categorical features to convert them into a numerical format suitable for modeling. This step often involves techniques like 
+ one-hot encoding or label encoding.
+* Selecting features for testing and training data, ensuring that only relevant features were included in the model.
+* Splitting the data into training and testing sets to evaluate the model's performance.
+* Training the logistic regression model on the training data.
+* Calculating the accuracy score to assess the model's performance on the test data.
 
 By following these steps, I was able to develop a logistic regression model to predict survival outcomes with 78% accuracy.
 
